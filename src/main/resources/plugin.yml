@@ -1,0 +1,6 @@
+name: "${project.name}"
+main: com.l3tplay.crashclaimmap.Pl3xMapCrashClaim
+version: "${project.version}"
+api-version: "1.16"
+author: l3st4t
+depend: [CrashClaim, Pl3xMap]
